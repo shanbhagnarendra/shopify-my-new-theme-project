@@ -1,6 +1,6 @@
 {
   "current": {
-    "colors_solid_button_labels": "#ed5656",
+    "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#121212",
     "gradient_accent_1": "",
     "colors_accent_2": "#334fb4",
@@ -19,7 +19,7 @@
     "spacing_sections": 0,
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
-    "buttons_border_thickness": 3,
+    "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
     "buttons_radius": 0,
     "buttons_shadow_opacity": 0,
@@ -103,23 +103,14 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
-              "color_scheme": "background-1",
-              "link": ""
-            }
-          },
-          "983911ae-feab-456e-a085-f3b104547a57": {
-            "type": "announcement",
-            "settings": {
-              "text": "Welcome to our store",
+              "text": "Welcome to our store. Happy shopping!",
               "color_scheme": "background-1",
               "link": ""
             }
           }
         },
         "block_order": [
-          "announcement-bar-0",
-          "983911ae-feab-456e-a085-f3b104547a57"
+          "announcement-bar-0"
         ],
         "settings": {
         }
@@ -131,7 +122,6 @@
           "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "main-menu",
-          "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
           "margin_bottom": 0
@@ -193,10 +183,7 @@
           "color_scheme": "background-1"
         }
       }
-    },
-    "content_for_index": [
-
-    ]
+    }
   },
   "presets": {
     "Default": {
@@ -303,7 +290,7 @@
             "announcement-bar-0": {
               "type": "announcement",
               "settings": {
-                "text": "Welcome to our store",
+                "text": "Welcome to our store. Happy shopping!",
                 "color_scheme": "background-1",
                 "link": ""
               }
